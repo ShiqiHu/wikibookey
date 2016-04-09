@@ -14,9 +14,13 @@ User could search a scentific topic on our website. Wikibookey would offer the m
 
 ## Technical
 Python-based Web Frameworks: Flask and Django
+
 Libraries for Web Scraping: BeautifulSoup, scrapy
+
 Libraries for PDF building: xhtmltopdf (Flask), reportlab (Django)
+
 APIs: MediaWiki and Wikidata Query Service
+
 May need to consider IP/copyright issues
 
 ## next step
