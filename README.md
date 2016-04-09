@@ -25,7 +25,10 @@ May need to consider IP/copyright issues
 
 ## next step
 build the skectches
+
 start the paper prototype
+
 figure out the technical issues
+
 fisrt focus on the scentific book (such as plant/flowers)
 
